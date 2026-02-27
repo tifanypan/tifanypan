@@ -1,6 +1,6 @@
-# Hey there 👋, I'm Tifany Pan
+# Hey there 👋, I'm Tifany
 
-I build products fast and understand the systems underneath them. **21 prototypes in 8 months** — currently focused on language learning and multiplayer games.
+I build products fast and understand the systems underneath them. 
 
 [tifanypan.com](https://tifanypan.com) • [LinkedIn](https://linkedin.com/in/tifanypan) • [Email](mailto:synclively@gmail.com)
 
@@ -32,7 +32,7 @@ Chinese reading practice with native segmentation and action extensions.
 **Social Games** (Swift)
 Multiplayer party games with AR support.
 
-**Also building:** time analytics tools, fitness trackers, content flow systems, market research automation.
+**21 prototypes in 8 months**, like time analytics tools, fitness trackers, end to end marketing flow systems, market research automation.
 
 ## 🛠️ Stack
 
