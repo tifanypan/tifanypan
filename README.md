@@ -1,61 +1,24 @@
-<div align="center">
+# Hey there 👋, I'm Tifany
 
-# Tifany Pan
+I build products fast and understand the systems underneath them. **21 prototypes in 8 months** — currently focused on language learning and multiplayer games.
 
-**0→1 Product Builder** • Ex-Verily/Alphabet, CueIn AI
+Previously: Verily/Alphabet, CueIn AI (acquired by ServiceNow), Sandstone Diagnostics (acquired by Labcorp)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tifanypan.com-000000?style=flat&logo=safari&logoColor=white)](https://tifanypan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tifanypan-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/tifanypan)
-[![Email](https://img.shields.io/badge/Email-synclively%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:synclively@gmail.com)
-
----
-
-I build products fast and understand the systems underneath them.
-
-**21 prototypes in 8 months** — currently focused on language learning and multiplayer games.
-
-</div>
+[tifanypan.com](https://tifanypan.com) • [LinkedIn](https://linkedin.com/in/tifanypan) • [Email](mailto:synclively@gmail.com)
 
 ## 🚀 What I'm Building
 
-<table>
-<tr>
-<td width="50%">
-
-### lenny-engine
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
+**lenny-engine** (Python)
 RAG-powered search across Lenny's podcast transcripts. Answer questions with citations, discover topics, build QA datasets for fine-tuning.
 
-</td>
-<td width="50%">
-
-### coveredrx
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
+**coveredrx** (TypeScript)
 Help patients understand if their insurance covers their prescriptions before leaving the doctor's office.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### bambooreader
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-
+**bambooreader** (Swift)
 Chinese reading practice with native segmentation and action extensions.
 
-</td>
-<td width="50%">
-
-### Social Games
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-
+**Social Games** (Swift)
 Multiplayer party games with AR support.
-
-</td>
-</tr>
-</table>
 
 **Also building:** time analytics tools, fitness trackers, content flow systems, market research automation.
 
@@ -89,8 +52,6 @@ Started in medical device R&D (FDA approvals, 4 patents, clinical validation). L
 
 **[View Full Portfolio →](https://tifanypan.com)**
 
-[![Portfolio](https://img.shields.io/badge/tifanypan.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://tifanypan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tifanypan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:synclively@gmail.com)
+[tifanypan.com](https://tifanypan.com) • [LinkedIn](https://linkedin.com/in/tifanypan) • [Email](mailto:synclively@gmail.com)
 
 </div>
