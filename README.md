@@ -1,12 +1,13 @@
 # Hey there 👋, I'm Tifany
 
-I build products fast and understand the systems underneath them. **21 prototypes in 8 months** — currently focused on language learning and multiplayer games.
+I build products fast and understand the systems underneath them.
 
 Previously: Verily/Alphabet, CueIn AI (acquired by ServiceNow), Sandstone Diagnostics (acquired by Labcorp)
 
 [tifanypan.com](https://tifanypan.com) • [LinkedIn](https://linkedin.com/in/tifanypan) • [Email](mailto:synclively@gmail.com)
 
 ## 🚀 What I'm Building
+
 
 **lenny-engine** (Python)
 RAG-powered search across Lenny's podcast transcripts. Answer questions with citations, discover topics, build QA datasets for fine-tuning.
@@ -20,7 +21,7 @@ Chinese reading practice with native segmentation and action extensions.
 **Social Games** (Swift)
 Multiplayer party games with AR support.
 
-**Also building:** time analytics tools, fitness trackers, content flow systems, market research automation.
+ **21 prototypes in 8 months**, i.e. time analytics tools, fitness trackers, content flow systems, market research automation.
 
 ## 🛠️ Stack
 
