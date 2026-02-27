@@ -1,13 +1,24 @@
-# Hey there 👋, I'm Tifany
+# Hey there 👋, I'm Tifany Pan
 
-I build products fast and understand the systems underneath them.
-
-Previously: Verily/Alphabet, CueIn AI (acquired by ServiceNow), Sandstone Diagnostics (acquired by Labcorp)
+I build products fast and understand the systems underneath them. **21 prototypes in 8 months** — currently focused on language learning and multiplayer games.
 
 [tifanypan.com](https://tifanypan.com) • [LinkedIn](https://linkedin.com/in/tifanypan) • [Email](mailto:synclively@gmail.com)
 
-## 🚀 What I'm Building
+## What I work on
 
+🏗️ **0→1 products**: language learning tools, multiplayer games, healthcare apps
+
+🧠 **RAG systems**: vector search, topic modeling, QA dataset curation
+
+📱 **iOS apps**: SwiftUI, Firebase/Supabase, modular architecture
+
+🌐 **Full-stack web**: React, Node, Postgres, real-time features
+
+🎮 **Game prototyping**: GDScript, social mechanics, AR experiences
+
+⚡ **Rapid iteration**: 21+ prototypes in 8 months, shipping weekly
+
+## 🚀 What I'm Building
 
 **lenny-engine** (Python)
 RAG-powered search across Lenny's podcast transcripts. Answer questions with citations, discover topics, build QA datasets for fine-tuning.
@@ -21,7 +32,7 @@ Chinese reading practice with native segmentation and action extensions.
 **Social Games** (Swift)
 Multiplayer party games with AR support.
 
- **21 prototypes in 8 months**, i.e. time analytics tools, fitness trackers, content flow systems, market research automation.
+**Also building:** time analytics tools, fitness trackers, content flow systems, market research automation.
 
 ## 🛠️ Stack
 
@@ -32,11 +43,21 @@ AI/Data          RAG • LLM Optimization • Data Analysis
 Infrastructure   Firebase/Supabase • Postgres • Vector Search
 ```
 
-## 📍 Background
+## About Me
 
-Started in medical device R&D (FDA approvals, 4 patents, clinical validation). Learned systems thinking and root cause analysis through building physical products. Now applying those frameworks to software.
+📍 Previously scaled systems at **Verily/Alphabet** (250 employees, 600K+ users)
 
-### Experience
+🤖 LLM optimization at **CueIn AI** (acquired by ServiceNow for Fortune 500 clients)
+
+🔬 Medical device R&D at **Sandstone Diagnostics** (acquired by Labcorp)
+
+🎓 **4 patents** (1 granted, 3 pending/closed) in thermal management & centrifugal systems
+
+📄 **2 peer-reviewed publications** in clinical validation and portable diagnostics
+
+💡 Transitioned from hardware → software by learning systems thinking through root cause analysis
+
+### Experience Timeline
 
 ```
 2024–Now    Fuyu Labs                  Pure 0→1 building, rapid iteration, full ownership
